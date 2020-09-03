@@ -21,7 +21,8 @@
     "react-helmet": "^6.0.0",
     "react-markdown": "^4.3.1",
     "react-moment": "^0.9.7",
-    "serialize-javascript": "^3.0.0"
+    "serialize-javascript": "^3.0.0",
+    "netlify-cli":"^2.61.0"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
